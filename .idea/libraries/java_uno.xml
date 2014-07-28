@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="java_uno">
+    <CLASSES>
+      <root url="jar:///Applications/LibreOffice.app/Contents/ure-link/share/java/juh.jar!/" />
+      <root url="jar:///Applications/LibreOffice.app/Contents/ure-link/share/java/jurt.jar!/" />
+      <root url="jar:///Applications/LibreOffice.app/Contents/ure-link/share/java/ridl.jar!/" />
+      <root url="jar:///Applications/LibreOffice.app/Contents/MacOS/classes/unoil.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
